@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/8/14 12:15:09。
+     1>项目“F:\vs2013\项目库\vs调试.c\vs调试.c\vs调试.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 8.13.test.c
+         8.13.test.c
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2013\项目库\vs调试.c\Release\vs调试.c.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs2013\项目库\vs调试.c\Release\vs调试.c.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2013\项目库\vs调试.c\Release\vs调试.c.lib" /MACHINE:X86 /SAFESEH Release\8.13.test.obj
+         正在生成代码
+         已完成代码的生成
+         vs调试.c.vcxproj -> F:\vs2013\项目库\vs调试.c\Release\vs调试.c.exe
+     1>已完成生成项目“F:\vs2013\项目库\vs调试.c\vs调试.c\vs调试.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
