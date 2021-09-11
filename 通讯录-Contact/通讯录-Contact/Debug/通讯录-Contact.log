@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/9/11 13:57:56。
+     1>项目“F:\vs2013\项目库\通讯录-Contact\通讯录-Contact\通讯录-Contact.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt contact.c test.c
+         test.c
+         contact.c
+     1>f:\vs2013\项目库\通讯录-contact\通讯录-contact\contact.c(49): warning C4133: “=”: 从“PeoInfo *”到“Contact *”的类型不兼容
+         正在生成代码...
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2013\项目库\通讯录-Contact\Debug\通讯录-Contact.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs2013\项目库\通讯录-Contact\Debug\通讯录-Contact.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2013\项目库\通讯录-Contact\Debug\通讯录-Contact.lib" /MACHINE:X86 Debug\contact.obj
+         Debug\test.obj
+         通讯录-Contact.vcxproj -> F:\vs2013\项目库\通讯录-Contact\Debug\通讯录-Contact.exe
+     1>已完成生成项目“F:\vs2013\项目库\通讯录-Contact\通讯录-Contact\通讯录-Contact.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
